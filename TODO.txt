@@ -1,0 +1,15 @@
+TODO:
+
+Nutzerdaten in Git eintragen (Lokal) DONE
+
+- Repo clonen					DONE
+- Repo bearbeiten				DONE
+- Einen Commit erstellen		DONE
+- den Commit ins Repo pushen	DONE 
+
+
+   :D
+   :D 
+   
+
+...
